@@ -1,6 +1,10 @@
 # Geotag
 Add GPS info into photos according to data taken from Google Location History
 
+# Google Location History data
+
+To get your Google Location History data in JSON format use [Google Takeout](https://takeout.google.com)
+
 # How to use
 -l, --locationFile    Required. Path of the locations file which will be used
 
