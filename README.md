@@ -1,7 +1,7 @@
 # Geotag
 Add GPS info into photos according to data taken from Google Location History
 
-#How to use
+# How to use
 -l, --locationFile    Required. Path of the locations file which will be used
 
 -i, --inputFolder     Required. Path of a folder or a specific file to be
